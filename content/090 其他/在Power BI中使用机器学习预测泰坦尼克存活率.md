@@ -8,8 +8,9 @@ des:
 return: 
 import: 
 hard: 
-aliases: []
-done:
+aliases: 
+done: 
+dg-publish: true
 ---
 其实，在之前已经介绍过Power BI中强大的AI功能，但基本是依赖于Power BI Desktop来实现的，比如分解树，智能叙述，快速度量。而今天要介绍的就是Azure云服务中的机器学习。
 打开Power BI Server,进行工作区后（必须是高级容量的工作区，此演示用的工作区为PPU的工作区）新建数据流
