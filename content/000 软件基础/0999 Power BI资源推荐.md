@@ -8,6 +8,7 @@ import: 5
 hard: 1
 aliases: 
 done: true
+dg-publish: true
 ---
 ## DAX基础
 [DAX Guide](https://dax.guide/)
