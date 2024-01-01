@@ -13,6 +13,7 @@ hard: 1
 aliases: 
 done: 
 url: https://dax.guide/closingbalancequarter/
+dg-publish: true
 ---
 
 ```dataview
