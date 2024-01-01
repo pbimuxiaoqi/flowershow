@@ -10,6 +10,7 @@ import:
 hard: 
 aliases: 
 done: true
+dg-publish: true
 ---
 
 
