@@ -13,6 +13,7 @@ hard: 1
 aliases: 
 done: true
 url: https://dax.guide/countx
+dg-publish: true
 ---
 计算列中值的数量
 ```dataview
