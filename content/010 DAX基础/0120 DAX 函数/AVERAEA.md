@@ -13,6 +13,7 @@ hard:
 aliases: 
 done: 
 url: https://dax.guide/averagea/
+dg-publish: true
 ---
 
 ```dataview
