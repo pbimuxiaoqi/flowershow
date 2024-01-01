@@ -11,7 +11,8 @@ import: 5
 hard: 4
 aliases: 
 done: 
-url:
+url: 
+dg-publish: true
 ---
 
 ```dataview
