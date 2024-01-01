@@ -8,6 +8,7 @@ import: 1
 hard: 1
 aliases: 
 done: true
+dg-publish: true
 ---
 
 Power BI是微软提供的一项业务分析服务，它可以连接世面上几乎所有的数据源，通过Power BI可以创建交互式的仪表板和分析报告，可以更方便的洞察数据，数据建模使用DAX语言。
