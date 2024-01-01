@@ -10,6 +10,7 @@ import:
 hard: 
 aliases: 
 done: true
+dg-publish: true
 ---
 Power BI是不支持个人邮箱注册的，比如qq邮箱，网易邮箱，是不支持用来注册账号的。只能使用商业邮箱注册，比如公司邮箱。
 另外，由于国内销售策略变更，目前个人无法试用注册世纪互联版的Power BI。
