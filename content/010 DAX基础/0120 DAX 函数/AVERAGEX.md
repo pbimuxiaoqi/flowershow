@@ -14,6 +14,7 @@ hard:
 aliases: 
 done: 
 url: https://dax.guide/averagex/
+dg-publish: true
 ---
 
 ```dataview
